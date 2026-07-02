@@ -2,14 +2,14 @@
   "_instructions": "Hero section content.",
   "greeting": "Hi, I'm",
   "name": "Tharun Kumar Bettadalli Girish",
-  "title": "Data Scientist",
-  "summary": "Data Scientist with 4+ years across research, R&D and product teams, building ML and GenAI/RAG systems on Python, SQL, PySpark and Spark. I ship production analytics that turn raw data into measurable decisions.",
+  "title": "Data Analyst",
+  "summary": "Data Analyst with 1+ years across research, R&D and product teams, building ML and GenAI/RAG systems on Python, SQL, PySpark and Spark. I ship production analytics that turn raw data into measurable decisions.",
   "avatarUrl": "/avatar.png",
   "tagline": "I turn messy data into decisions — ML, GenAI & analytics at scale",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "text": "4+ Years Experience",
+      "text": "1+ Years Experience",
       "color": "#3B82F6"
     },
     {

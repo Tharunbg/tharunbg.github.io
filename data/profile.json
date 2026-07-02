@@ -1,8 +1,8 @@
 {
   "profile": {
     "name": "Tharun Kumar Bettadalli Girish",
-    "title": "Data Scientist",
-    "bio": "Data Scientist and MS Data Science candidate at UT Arlington with 4+ years across research and industry, specializing in Python, SQL, PySpark, machine learning, and GenAI/RAG systems."
+    "title": "Data Analyst",
+    "bio": "Data Analyst and MS Data Science candidate at UT Arlington with 1+ years across research and industry, specializing in Python, SQL, PySpark, machine learning, and GenAI/RAG systems."
   },
   "contact": {
     "email": "tharungirish10@gmail.com",
@@ -12,7 +12,7 @@
   },
   "siteConfig": {
     "domain": "",
-    "title": "Tharun Kumar Bettadalli Girish - Data Scientist Portfolio",
-    "description": "Portfolio of Tharun Kumar Bettadalli Girish, a Data Scientist specializing in Python, SQL, PySpark, machine learning, and GenAI/RAG systems, with experience across UTA SEAR Lab, Samsung, and Varcons."
+    "title": "Tharun Kumar Bettadalli Girish - Data Analyst Portfolio",
+    "description": "Portfolio of Tharun Kumar Bettadalli Girish, a Data Analyst specializing in Python, SQL, PySpark, machine learning, and GenAI/RAG systems, with experience across UTA SEAR Lab, Samsung, and Varcons."
   }
 }

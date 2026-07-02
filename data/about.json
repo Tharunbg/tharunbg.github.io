@@ -3,7 +3,7 @@
   "sectionTitle": "About Me",
   "image": "assets/images/profile.jpg",
   "paragraphs": [
-    "I'm Tharun, a Data Scientist completing my MS in Data Science at the University of Texas at Arlington. Over the past 4+ years I've worked across research and industry — from UTA's SEAR Lab to Samsung SEED and Varcons Technology — turning messy, large-scale data into reliable systems and clear decisions.",
+    "I'm Tharun, a Data Analyst completing my MS in Data Science at the University of Texas at Arlington. Over the past 1+ years I've worked across research and industry — from UTA's SEAR Lab to Samsung SEED and Varcons Technology — turning messy, large-scale data into reliable systems and clear decisions.",
     "My day-to-day spans the full data lifecycle: building Python, SQL, and PySpark pipelines, engineering features on Spark and Databricks, training machine learning models, and shipping GenAI applications. I recently built a production RAG system that pairs FAISS semantic search with intent-aware query routing to hit 85% Top-5 retrieval accuracy, and I'm just as comfortable designing Tableau and Power BI dashboards that put insight in front of the people who need it.",
     "Beyond the code, I care about building communities around data. As Co-Founder of DATA (Data Analytics and Technology Association) at UTA, I led datathons and workshops for 200+ participants and helped scale a 150+ member community — delivering 15+ projects along the way. I bring that same blend of technical depth and leadership to every team I join."
   ],
@@ -16,7 +16,7 @@
     },
     {
       "icon": "fas fa-briefcase",
-      "value": "4+",
+      "value": "1+",
       "label": "Years Experience",
       "color": "#60A5FA"
     },
